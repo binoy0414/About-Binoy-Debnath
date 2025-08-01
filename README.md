@@ -49,9 +49,9 @@
 ## 🌐 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+<a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/binoy-debnath-a0995818/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 <a href="https://twitter.com/your-twitter/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a>
-<a href="mailto:your-email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
+<a href="mailto:your-binoy0414@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
 <a href="https://www.researchgate.net/profile/Binoy-Debnath" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" height="30px"/></a>
 </p>
 
